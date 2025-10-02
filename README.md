@@ -8,6 +8,6 @@ A brief description of what this project does and who it's for
 
 
 ## 🚀 About Me
-I'm a Data Scientist & Engineer from University of Coimbra
+I'm a Data Scientist & Engineer from University of Coimbra, and m currently doing an internship at The Loop Co. on the Future Skills academy.
 
 
