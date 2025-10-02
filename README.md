@@ -8,5 +8,6 @@ A brief description of what this project does and who it's for
 
 
 ## 🚀 About Me
-I'm a Data Scientist & Engineer
+I'm a Data Scientist & Engineer from University of Coimbra
+
 
