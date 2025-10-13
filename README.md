@@ -2,6 +2,6 @@
 
 
 ## 🚀 About Me
-I'm a Data Scientist & Engineer from University of Coimbra, and m currently doing an internship at The Loop Co. on the Future Skills academy.
+I'm a Data Scientist & Engineer from University of Coimbra.
 
 
