@@ -2,6 +2,5 @@
 
 
 ## 🚀 About Me
-I'm a Data Scientist & Engineer from University of Coimbra.
-
+I'm a Data Scientist & Engineer from University of Coimbral, currently getting MSc in Economics.
 
