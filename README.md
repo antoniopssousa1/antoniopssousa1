@@ -2,5 +2,5 @@
 
 
 ## 🚀 About Me
-I'm a Data Scientist & Engineer from University of Coimbral, currently getting MSc in Economics.
+I'm a Data Scientist & Engineer from University of Coimbral, currently getting MSc in Economics (Finance Track) - Ongoing.
 
