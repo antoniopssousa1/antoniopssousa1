@@ -4,8 +4,8 @@
 Based in Portugal (Braga / Coimbra region), I thrive at the intersection of data, finance, and engineering.
 
 ## 🎓 Background & Current Focus  
-- Bachelor’s in Data Science & Engineering. :contentReference[oaicite:0]{index=0}  
-- Currently pursuing the Finance track of an MSc in Economics at University of Coimbra. :contentReference[oaicite:2]{index=2}  
+- Bachelor’s in Data Science & Engineering.
+- Currently pursuing the Finance track of an MSc in Economics at University of Coimbra. 
 - Professionally, I work as a Data Engineer at a consulting company. (See profile for more.)
 
 ## 💡 What I Do  
