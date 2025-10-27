@@ -10,16 +10,16 @@ Based in Portugal (Braga / Coimbra region), I thrive at the intersection of data
 
 ## 💡 What I Do  
 - Build and deploy robust data engineering solutions: pipelines, ETL/ELT workflows, cloud tooling, big/data-warehouse infrastructure.  
-- Apply quantitative finance techniques (pairs trading, PCA, clustering, z-score, regression) to clean/renewable energy ETFs and other financial instruments.  
-- Explore machine learning & Bayesian models for predictive analytics (e.g., in insurance acquisition modelling).  
-- Use my engineering background (mechanical/physical systems) plus interest in running, guitar, motorcycles, and winemaking to bring a multidisciplinary lens to data problems.
+- Apply quantitative finance techniques financial instruments, with the help of Data Science background.
+- Explore machine learning & Bayesian models for predictive analytics.  
+- Use my engineering background (mechanical/physical systems) plus my hobbies to bring a multidisciplinary lens to data problems.
 
 ## 🛠 Skills & Technologies  
 - **Programming & tools**: Python, SQL, R; frameworks for data pipelines, streaming, batch analytics.  
 - **Quantitative methods**: PCA, DBSCAN clustering, Z-scores, regression, time-series, factorisation/linear algebra methods (SVD, LU, QR), numerical analysis.  
-- **Data engineering**: Cloud (AWS/Azure/GCP), ETL/ELT, data warehousing, big data ecosystems.  
+- **Data engineering**: Cloud (AWS/Azure/GCP), ETL/ELT, data warehousing, big data ecosystems, Databricks.  
 - **Domain knowledge**: Finance (especially clean energy ETFs), insurance modelling, engineering systems.  
-- **Hobbies & extras**: Kickboxing, running, chess, guitar, motorcycle engineering, winemaking.
+- **Hobbies & extras**: Kickboxing, running, chess, guitar, motorcycles, cars, engineering, winemaking.
 
 ## 📂 What You’ll Find Here  
 - Projects related to data engineering workflows, financial modelling, machine learning in engineering/finance contexts.  
