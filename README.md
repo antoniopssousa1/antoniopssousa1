@@ -1,6 +1,6 @@
 # António Porto de Sousa
 
-👋 **Hi, I’m António.** I’m a **Data Engineer** and **MSc Economics** candidate based in Portugal (Braga / Coimbra).
+👋 **Hi, I’m António.** I’m a **Data Engineer** and **MSc Economics** candidate based in Portugal (Coimbra).
 
 I thrive at the intersection of data engineering, finance, and quantitative analysis, turning complex datasets into robust pipelines and actionable financial models.
 
