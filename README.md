@@ -1,37 +1,27 @@
 # António Porto de Sousa
 
-👋 Hi – I’m António, a Data Engineer and MSc in Economics candidate with a versatile technical background and strong analytical mindset.  
-Based in Portugal (Braga / Coimbra region), I thrive at the intersection of data, finance, and engineering.
+👋 **Hi, I’m António.** I’m a **Data Engineer** and **MSc Economics** candidate based in Portugal (Braga / Coimbra).
 
-## 🎓 Background & Current Focus  
-- Bachelor’s in Data Science & Engineering.
-- Currently pursuing the Finance track of an MSc in Economics at University of Coimbra. 
-- Professionally, I work as a Data Engineer at a consulting company. (See profile for more.)
+I thrive at the intersection of data engineering, finance, and quantitative analysis, turning complex datasets into robust pipelines and actionable financial models.
 
-## 💡 What I Do  
-- Build and deploy robust data engineering solutions: pipelines, ETL/ELT workflows, cloud tooling, big/data-warehouse infrastructure.  
-- Apply quantitative finance techniques financial instruments, with the help of Data Science background.
-- Explore machine learning & Bayesian models for predictive analytics.  
-- Use my engineering background (mechanical/physical systems) plus my hobbies to bring a multidisciplinary lens to data problems.
+> 🏆 **Databricks Certified Data Engineer Associate**
 
-## 🛠 Skills & Technologies  
-- **Programming & tools**: Python, SQL, R; frameworks for data pipelines, streaming, batch analytics.  
-- **Quantitative methods**: PCA, DBSCAN clustering, Z-scores, regression, time-series, factorisation/linear algebra methods (SVD, LU, QR), numerical analysis.  
-- **Data engineering**: Cloud (AWS/Azure/GCP), ETL/ELT, data warehousing, big data ecosystems, Databricks.  
-- **Domain knowledge**: Finance (especially clean energy ETFs), insurance modelling, engineering systems.  
-- **Hobbies & extras**: Kickboxing, running, chess, guitar, motorcycles, cars, engineering, winemaking.
+## 🚀 About Me
+- **Education:** BSc in Data Science & Engineering | Currently pursuing MSc in Economics (Finance Track) at the University of Coimbra.
+- **Professionally:** Working as a Data Engineer in consulting.
+- **Focus:** Building scalable ETL/ELT pipelines, cloud infrastructure, and applying quantitative methods (Time-series, PCA, Bayesian models) to financial instruments.
 
-## 📂 What You’ll Find Here  
-- Projects related to data engineering workflows, financial modelling, machine learning in engineering/finance contexts.  
-- Code notebooks, pipeline templates, quantitative analyses, and demos of applied methods from my MSc and professional work.  
-- Open-source tools and experimental repos bridging data science, engineering and real-world applications.
+## 🛠 Tech & Skills
+| Domain | Stuff |
+| :--- | :--- |
+| **Core** | Python, SQL, Databricks |
 
-## 🔗 Let’s Connect  
-- LinkedIn: [linkedin.com/in/antonioportosousa](https://www.linkedin.com/in/antonioportosousa/)  
-- GitHub: [github.com/antoniopssousa1](https://github.com/antoniopssousa1)  
-- Feel free to reach out if you’d like to collaborate, discuss data/finance/engineering or simply exchange ideas.
+## ⚡ Hobbies
+Kickboxing, running, chess, guitar, motorcycles, cars, and winemaking.
+
+## 🔗 Let’s Connect
+- **LinkedIn:** [linkedin.com/in/antonioportosousa](https://www.linkedin.com/in/antonioportosousa/)
+- **GitHub:** [github.com/antoniopssousa1](https://github.com/antoniopssousa1)
 
 ---
-
 *“Turning data into structure, uncertainty into models, and markets into understanding.”*
-
