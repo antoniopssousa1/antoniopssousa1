@@ -8,7 +8,7 @@ I thrive at the intersection of data engineering, finance, and quantitative anal
 
 ## 🚀 About Me
 - **Education:** BSc in Data Science & Engineering | Currently pursuing MSc in Economics (Finance Track) at the University of Coimbra.
-- **Professionally:** Working as a Data Engineer in consulting.
+- **Professionally:** Working as a Data Engineer in Big4.
 - **Focus:** Building scalable ETL/ELT pipelines, cloud infrastructure, and applying quantitative methods (Time-series, PCA, Bayesian models) to financial instruments.
 
 ## 🛠 Tech & Skills
